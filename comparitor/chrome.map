@@ -1,0 +1,1023 @@
+400a0000-400a2000 r-xp 00000000 b3:16 109        /system/bin/app_process
+400a2000-400a3000 r--p 00001000 b3:16 109        /system/bin/app_process
+400a3000-400a4000 rw-p 00000000 00:00 0 
+400a4000-400b3000 r-xp 00000000 b3:16 176        /system/bin/linker
+400b3000-400b4000 r--p 0000e000 b3:16 176        /system/bin/linker
+400b4000-400b5000 rw-p 0000f000 b3:16 176        /system/bin/linker
+400b5000-400b8000 rw-p 00000000 00:00 0 
+400b8000-400b9000 r--p 00000000 00:00 0 
+400b9000-400ba000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+400ba000-400c3000 r-xp 00000000 b3:16 861        /system/lib/libcutils.so
+400c3000-400c4000 r--p 00008000 b3:16 861        /system/lib/libcutils.so
+400c4000-400c5000 rw-p 00009000 b3:16 861        /system/lib/libcutils.so
+400c5000-400c8000 r-xp 00000000 b3:16 966        /system/lib/liblog.so
+400c8000-400c9000 r--p 00002000 b3:16 966        /system/lib/liblog.so
+400c9000-400ca000 rw-p 00003000 b3:16 966        /system/lib/liblog.so
+400ca000-40111000 r-xp 00000000 b3:16 838        /system/lib/libc.so
+40111000-40112000 ---p 00000000 00:00 0 
+40112000-40114000 r--p 00047000 b3:16 838        /system/lib/libc.so
+40114000-40117000 rw-p 00049000 b3:16 838        /system/lib/libc.so
+40117000-40125000 rw-p 00000000 00:00 0 
+40125000-40126000 r-xp 00000000 b3:16 1098       /system/lib/libstdc++.so
+40126000-40127000 r--p 00000000 b3:16 1098       /system/lib/libstdc++.so
+40127000-40128000 rw-p 00001000 b3:16 1098       /system/lib/libstdc++.so
+40128000-40140000 r-xp 00000000 b3:16 968        /system/lib/libm.so
+40140000-40141000 r--p 00017000 b3:16 968        /system/lib/libm.so
+40141000-40142000 rw-p 00018000 b3:16 968        /system/lib/libm.so
+40142000-40155000 r-xp 00000000 b3:16 1110       /system/lib/libutils.so
+40155000-40156000 ---p 00000000 00:00 0 
+40156000-40157000 r--p 00013000 b3:16 1110       /system/lib/libutils.so
+40157000-40158000 rw-p 00014000 b3:16 1110       /system/lib/libutils.so
+40158000-4015b000 r-xp 00000000 b3:16 857        /system/lib/libcorkscrew.so
+4015b000-4015c000 r--p 00002000 b3:16 857        /system/lib/libcorkscrew.so
+4015c000-4015d000 rw-p 00003000 b3:16 857        /system/lib/libcorkscrew.so
+4015d000-40161000 r-xp 00000000 b3:16 913        /system/lib/libgccdemangle.so
+40161000-40162000 ---p 00000000 00:00 0 
+40162000-40163000 r--p 00004000 b3:16 913        /system/lib/libgccdemangle.so
+40163000-40164000 rw-p 00005000 b3:16 913        /system/lib/libgccdemangle.so
+40164000-40189000 r-xp 00000000 b3:16 834        /system/lib/libbinder.so
+40189000-4018a000 ---p 00000000 00:00 0 
+4018a000-40190000 r--p 00025000 b3:16 834        /system/lib/libbinder.so
+40190000-40191000 rw-p 0002b000 b3:16 834        /system/lib/libbinder.so
+40191000-40237000 r-xp 00000000 b3:16 819        /system/lib/libandroid_runtime.so
+40237000-4023c000 r--p 000a5000 b3:16 819        /system/lib/libandroid_runtime.so
+4023c000-40243000 rw-p 000aa000 b3:16 819        /system/lib/libandroid_runtime.so
+40243000-40244000 r-xp 00000000 b3:16 975        /system/lib/libmemtrack.so
+40244000-40245000 r--p 00000000 b3:16 975        /system/lib/libmemtrack.so
+40245000-40246000 rw-p 00001000 b3:16 975        /system/lib/libmemtrack.so
+40246000-40247000 r-xp 00000000 b3:16 922        /system/lib/libhardware.so
+40247000-40248000 r--p 00000000 b3:16 922        /system/lib/libhardware.so
+40248000-40249000 rw-p 00001000 b3:16 922        /system/lib/libhardware.so
+40249000-40268000 r-xp 00000000 b3:16 821        /system/lib/libandroidfw.so
+40268000-40269000 ---p 00000000 00:00 0 
+40269000-4026a000 r--p 0001f000 b3:16 821        /system/lib/libandroidfw.so
+4026a000-4026b000 rw-p 00020000 b3:16 821        /system/lib/libandroidfw.so
+4026b000-40281000 r-xp 00000000 b3:16 1132       /system/lib/libz.so
+40281000-40282000 ---p 00000000 00:00 0 
+40282000-40283000 r--p 00016000 b3:16 1132       /system/lib/libz.so
+40283000-40284000 rw-p 00017000 b3:16 1132       /system/lib/libz.so
+40284000-40285000 r--p 00000000 00:00 0 
+40285000-40298000 r-xp 00000000 b3:16 891        /system/lib/libexpat.so
+40298000-40299000 ---p 00000000 00:00 0 
+40299000-4029b000 r--p 00013000 b3:16 891        /system/lib/libexpat.so
+4029b000-4029c000 rw-p 00015000 b3:16 891        /system/lib/libexpat.so
+4029c000-402a0000 r-xp 00000000 b3:16 987        /system/lib/libnativehelper.so
+402a0000-402a1000 r--p 00003000 b3:16 987        /system/lib/libnativehelper.so
+402a1000-402a2000 rw-p 00004000 b3:16 987        /system/lib/libnativehelper.so
+402a2000-402d4000 r-xp 00000000 b3:16 1099       /system/lib/libstlport.so
+402d4000-402d6000 r--p 00031000 b3:16 1099       /system/lib/libstlport.so
+402d6000-402d7000 rw-p 00033000 b3:16 1099       /system/lib/libstlport.so
+402d7000-402dc000 r-xp 00000000 b3:16 994        /system/lib/libnetutils.so
+402dc000-402dd000 r--p 00004000 b3:16 994        /system/lib/libnetutils.so
+402dd000-402de000 rw-p 00005000 b3:16 994        /system/lib/libnetutils.so
+402de000-402e7000 r-xp 00000000 b3:16 1108       /system/lib/libui.so
+402e7000-402e8000 r--p 00008000 b3:16 1108       /system/lib/libui.so
+402e8000-402e9000 rw-p 00009000 b3:16 1108       /system/lib/libui.so
+402e9000-402ea000 r-xp 00000000 b3:16 1103       /system/lib/libsync.so
+402ea000-402eb000 r--p 00000000 b3:16 1103       /system/lib/libsync.so
+402eb000-402ec000 rw-p 00001000 b3:16 1103       /system/lib/libsync.so
+402ec000-40321000 r-xp 00000000 b3:16 921        /system/lib/libgui.so
+40321000-4032a000 r--p 00034000 b3:16 921        /system/lib/libgui.so
+4032a000-4032b000 rw-p 0003d000 b3:16 921        /system/lib/libgui.so
+4032b000-40375000 r-xp 00000000 b3:16 787        /system/lib/libEGL.so
+40375000-40377000 r--p 00049000 b3:16 787        /system/lib/libEGL.so
+40377000-4037d000 rw-p 0004b000 b3:16 787        /system/lib/libEGL.so
+4037d000-40380000 rw-p 00000000 00:00 0 
+40380000-403cc000 r-xp 00000000 b3:16 791        /system/lib/libGLES_trace.so
+403cc000-403cd000 ---p 00000000 00:00 0 
+403cd000-403ce000 r--p 0004c000 b3:16 791        /system/lib/libGLES_trace.so
+403ce000-403cf000 rw-p 0004d000 b3:16 791        /system/lib/libGLES_trace.so
+403cf000-403d5000 r-xp 00000000 b3:16 793        /system/lib/libGLESv2.so
+403d5000-403d6000 r--p 00005000 b3:16 793        /system/lib/libGLESv2.so
+403d6000-403d7000 rw-p 00006000 b3:16 793        /system/lib/libGLESv2.so
+403d7000-403eb000 r-xp 00000000 b3:16 929        /system/lib/libinput.so
+403eb000-403ed000 r--p 00013000 b3:16 929        /system/lib/libinput.so
+403ed000-403ee000 rw-p 00015000 b3:16 929        /system/lib/libinput.so
+403ee000-40419000 r-xp 00000000 b3:16 842        /system/lib/libcamera_client.so
+40419000-4041a000 ---p 00000000 00:00 0 
+4041a000-40423000 r--p 0002b000 b3:16 842        /system/lib/libcamera_client.so
+40423000-40424000 rw-p 00034000 b3:16 842        /system/lib/libcamera_client.so
+40424000-40429000 r-xp 00000000 b3:16 843        /system/lib/libcamera_metadata.so
+40429000-4042a000 r--p 00004000 b3:16 843        /system/lib/libcamera_metadata.so
+4042a000-4042b000 rw-p 00005000 b3:16 843        /system/lib/libcamera_metadata.so
+4042b000-405ee000 r-xp 00000000 b3:16 1059       /system/lib/libskia.so
+405ee000-405ef000 ---p 00000000 00:00 0 
+405ef000-40600000 r--p 001c3000 b3:16 1059       /system/lib/libskia.so
+40600000-40602000 rw-p 001d4000 b3:16 1059       /system/lib/libskia.so
+40602000-4060a000 rw-p 00000000 00:00 0 
+4060a000-4060b000 r--p 00000000 00:00 0 
+4060b000-4065a000 r-xp 00000000 b3:16 906        /system/lib/libft2.so
+4065a000-4065b000 ---p 00000000 00:00 0 
+4065b000-4065c000 r--p 0004f000 b3:16 906        /system/lib/libft2.so
+4065c000-4065d000 rw-p 00050000 b3:16 906        /system/lib/libft2.so
+4065d000-4067a000 r-xp 00000000 b3:16 1016       /system/lib/libpng.so
+4067a000-4067b000 ---p 00000000 00:00 0 
+4067b000-4067c000 r--p 0001d000 b3:16 1016       /system/lib/libpng.so
+4067c000-4067d000 rw-p 0001e000 b3:16 1016       /system/lib/libpng.so
+4067d000-406b1000 r-xp 00000000 b3:16 959        /system/lib/libjpeg.so
+406b1000-406b2000 ---p 00000000 00:00 0 
+406b2000-406b3000 r--p 00034000 b3:16 959        /system/lib/libjpeg.so
+406b3000-406b4000 rw-p 00035000 b3:16 959        /system/lib/libjpeg.so
+406b4000-407a5000 r-xp 00000000 b3:16 927        /system/lib/libicuuc.so
+407a5000-407ae000 r--p 000f0000 b3:16 927        /system/lib/libicuuc.so
+407ae000-407af000 rw-p 000f9000 b3:16 927        /system/lib/libicuuc.so
+407af000-407b3000 rw-p 00000000 00:00 0 
+407b3000-407b7000 r-xp 00000000 b3:16 907        /system/lib/libgabi++.so
+407b7000-407b8000 r--p 00003000 b3:16 907        /system/lib/libgabi++.so
+407b8000-407b9000 rw-p 00004000 b3:16 907        /system/lib/libgabi++.so
+407b9000-408e9000 r-xp 00000000 b3:16 926        /system/lib/libicui18n.so
+408e9000-408ea000 ---p 00000000 00:00 0 
+408ea000-408f1000 r--p 00130000 b3:16 926        /system/lib/libicui18n.so
+408f1000-408f2000 rw-p 00137000 b3:16 926        /system/lib/libicui18n.so
+408f2000-40941000 r-xp 00000000 b3:16 1066       /system/lib/libsqlite.so
+40941000-40942000 ---p 00000000 00:00 0 
+40942000-40943000 r--p 0004f000 b3:16 1066       /system/lib/libsqlite.so
+40943000-40944000 rw-p 00050000 b3:16 1066       /system/lib/libsqlite.so
+40944000-40949000 r-xp 00000000 b3:16 792        /system/lib/libGLESv1_CM.so
+40949000-4094a000 r--p 00004000 b3:16 792        /system/lib/libGLESv1_CM.so
+4094a000-4094b000 rw-p 00005000 b3:16 792        /system/lib/libGLESv1_CM.so
+4094b000-4094d000 r-xp 00000000 b3:16 788        /system/lib/libETC1.so
+4094d000-4094e000 r--p 00001000 b3:16 788        /system/lib/libETC1.so
+4094e000-4094f000 rw-p 00002000 b3:16 788        /system/lib/libETC1.so
+4094f000-40953000 r-xp 00000000 b3:16 923        /system/lib/libhardware_legacy.so
+40953000-40954000 r--p 00003000 b3:16 923        /system/lib/libhardware_legacy.so
+40954000-40955000 rw-p 00004000 b3:16 923        /system/lib/libhardware_legacy.so
+40955000-40956000 rw-p 00000000 00:00 0 
+40956000-40958000 r-xp 00000000 b3:16 1128       /system/lib/libwpa_client.so
+40958000-40959000 r--p 00001000 b3:16 1128       /system/lib/libwpa_client.so
+40959000-4095a000 rw-p 00002000 b3:16 1128       /system/lib/libwpa_client.so
+4095a000-40964000 r-xp 00000000 b3:16 1054       /system/lib/libselinux.so
+40964000-40965000 ---p 00000000 00:00 0 
+40965000-40966000 r--p 0000a000 b3:16 1054       /system/lib/libselinux.so
+40966000-40967000 rw-p 0000b000 b3:16 1054       /system/lib/libselinux.so
+40967000-409b5000 r-xp 00000000 b3:16 1061       /system/lib/libsonivox.so
+409b5000-409b6000 r--p 0004d000 b3:16 1061       /system/lib/libsonivox.so
+409b6000-409b7000 rw-p 0004e000 b3:16 1061       /system/lib/libsonivox.so
+409b7000-409bc000 rw-p 00000000 00:00 0 
+409bc000-40a93000 r-xp 00000000 b3:16 858        /system/lib/libcrypto.so
+40a93000-40a94000 ---p 00000000 00:00 0 
+40a94000-40aa0000 r--p 000d7000 b3:16 858        /system/lib/libcrypto.so
+40aa0000-40aa6000 rw-p 000e3000 b3:16 858        /system/lib/libcrypto.so
+40aa6000-40aa8000 rw-p 00000000 00:00 0 
+40aa8000-40aa9000 r--p 00000000 00:00 0 
+40aa9000-40ae1000 r-xp 00000000 b3:16 1068       /system/lib/libssl.so
+40ae1000-40ae2000 ---p 00000000 00:00 0 
+40ae2000-40ae4000 r--p 00038000 b3:16 1068       /system/lib/libssl.so
+40ae4000-40ae7000 rw-p 0003a000 b3:16 1068       /system/lib/libssl.so
+40ae7000-40b5c000 r-xp 00000000 b3:16 970        /system/lib/libmedia.so
+40b5c000-40b72000 r--p 00074000 b3:16 970        /system/lib/libmedia.so
+40b72000-40b73000 rw-p 0008a000 b3:16 970        /system/lib/libmedia.so
+40b73000-40b83000 r-xp 00000000 b3:16 1074       /system/lib/libstagefright_foundation.so
+40b83000-40b84000 r--p 0000f000 b3:16 1074       /system/lib/libstagefright_foundation.so
+40b84000-40b85000 rw-p 00010000 b3:16 1074       /system/lib/libstagefright_foundation.so
+40b85000-40b87000 r-xp 00000000 b3:16 830        /system/lib/libaudioutils.so
+40b87000-40b88000 r--p 00001000 b3:16 830        /system/lib/libaudioutils.so
+40b88000-40b89000 rw-p 00002000 b3:16 830        /system/lib/libaudioutils.so
+40b89000-40b8d000 r-xp 00000000 b3:16 1064       /system/lib/libspeexresampler.so
+40b8d000-40b8e000 r--p 00003000 b3:16 1064       /system/lib/libspeexresampler.so
+40b8e000-40b8f000 rw-p 00004000 b3:16 1064       /system/lib/libspeexresampler.so
+40b8f000-40b91000 r-xp 00000000 b3:16 1109       /system/lib/libusbhost.so
+40b91000-40b92000 r--p 00001000 b3:16 1109       /system/lib/libusbhost.so
+40b92000-40b93000 rw-p 00002000 b3:16 1109       /system/lib/libusbhost.so
+40b93000-40bdb000 r-xp 00000000 b3:16 924        /system/lib/libharfbuzz_ng.so
+40bdb000-40bdc000 r--p 00047000 b3:16 924        /system/lib/libharfbuzz_ng.so
+40bdc000-40bdd000 rw-p 00048000 b3:16 924        /system/lib/libharfbuzz_ng.so
+40bdd000-40c0f000 r-xp 00000000 b3:16 925        /system/lib/libhwui.so
+40c0f000-40c10000 ---p 00000000 00:00 0 
+40c10000-40c12000 r--p 00032000 b3:16 925        /system/lib/libhwui.so
+40c12000-40c13000 rw-p 00034000 b3:16 925        /system/lib/libhwui.so
+40c13000-40c45000 r-xp 00000000 b3:16 803        /system/lib/libRS.so
+40c45000-40c46000 r--p 00031000 b3:16 803        /system/lib/libRS.so
+40c46000-40c47000 rw-p 00032000 b3:16 803        /system/lib/libRS.so
+40c47000-40c67000 r-xp 00000000 b3:16 832        /system/lib/libbcc.so
+40c67000-40c68000 ---p 00000000 00:00 0 
+40c68000-40c69000 r--p 00020000 b3:16 832        /system/lib/libbcc.so
+40c69000-40c6a000 rw-p 00021000 b3:16 832        /system/lib/libbcc.so
+40c6a000-40c8a000 rw-p 00000000 00:00 0 
+40c8a000-40cbd000 r-xp 00000000 b3:16 833        /system/lib/libbcinfo.so
+40cbd000-40cbe000 r--p 00032000 b3:16 833        /system/lib/libbcinfo.so
+40cbe000-40cbf000 rw-p 00033000 b3:16 833        /system/lib/libbcinfo.so
+40cbf000-414a8000 r-xp 00000000 b3:16 796        /system/lib/libLLVM.so
+414a8000-414a9000 ---p 00000000 00:00 0 
+414a9000-414d8000 r--p 007e9000 b3:16 796        /system/lib/libLLVM.so
+414d8000-414da000 rw-p 00818000 b3:16 796        /system/lib/libLLVM.so
+414da000-414e0000 rw-p 00000000 00:00 0 
+414e0000-414f1000 r-xp 00000000 b3:16 808        /system/lib/libRScpp.so
+414f1000-414f2000 ---p 00000000 00:00 0 
+414f2000-414f3000 r--p 00011000 b3:16 808        /system/lib/libRScpp.so
+414f3000-414f4000 rw-p 00012000 b3:16 808        /system/lib/libRScpp.so
+414f4000-41514000 r--s 00000000 00:0b 8199       /dev/__properties__
+41514000-41515000 r--p 00000000 00:00 0 
+41515000-4151a000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+4151a000-4151b000 r--p 00000000 00:00 0 
+4151b000-4151c000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+4151c000-415c3000 r-xp 00000000 b3:16 879        /system/lib/libdvm.so
+415c3000-415c7000 r--p 000a6000 b3:16 879        /system/lib/libdvm.so
+415c7000-415cc000 rw-p 000aa000 b3:16 879        /system/lib/libdvm.so
+415cc000-415ce000 rw-p 00000000 00:00 0 
+415ce000-415cf000 r--p 00000000 00:00 0 
+415cf000-415d1000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+415d1000-41e9d000 rw-p 00000000 00:04 8110       /dev/ashmem/dalvik-zygote (deleted)
+41e9d000-615d1000 rw-p 00000000 00:04 1256       /dev/ashmem/dalvik-heap (deleted)
+615d1000-61dd1000 rw-p 00000000 00:04 8111       /dev/ashmem/dalvik-bitmap-1 (deleted)
+61dd1000-625d1000 rw-p 00000000 00:04 8112       /dev/ashmem/dalvik-bitmap-2 (deleted)
+625d1000-6d07c000 rw-p 00000000 00:04 8113       /dev/ashmem/dalvik-mark-stack (deleted)
+6d07c000-6d47d000 rw-p 00000000 00:04 8114       /dev/ashmem/dalvik-card-table (deleted)
+6d47d000-6d480000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+6d480000-6d486000 rw-p 00000000 00:00 0 
+6d486000-6d48b000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+6d48b000-6d48c000 ---p 00000000 00:04 8115       /dev/ashmem/dalvik-LinearAlloc (deleted)
+6d48c000-6d7d8000 rw-p 00001000 00:04 8115       /dev/ashmem/dalvik-LinearAlloc (deleted)
+6d7d8000-6d8a6000 rw-p 0034d000 00:04 8115       /dev/ashmem/dalvik-LinearAlloc (deleted)
+6d8a6000-6e48b000 ---p 0041b000 00:04 8115       /dev/ashmem/dalvik-LinearAlloc (deleted)
+6e48b000-6e490000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+6e490000-6e498000 rw-p 00000000 00:04 1242       /dev/ashmem/dalvik-aux-structure (deleted)
+6e498000-6e49a000 r--s 00015000 b3:16 666        /system/framework/okhttp.jar
+6e49a000-6e49f000 rw-p 00000000 00:04 1243       /dev/ashmem/dalvik-aux-structure (deleted)
+6e49f000-6e4a0000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+6e4a0000-6e4a1000 r--s 00002000 b3:16 641        /system/framework/core-junit.jar
+6e4a1000-6e4a2000 r--s 0012c000 b3:16 645        /system/framework/core.jar
+6e4a2000-6e7b9000 r--p 00000000 b3:16 646        /system/framework/core.odex
+6e7b9000-6e7ef000 rw-p 00000000 00:04 1241       /dev/ashmem/dalvik-aux-structure (deleted)
+6e7ef000-6e7f0000 r--s 00023000 b3:16 637        /system/framework/conscrypt.jar
+6e7f0000-6e84c000 r--p 00000000 b3:16 638        /system/framework/conscrypt.odex
+6e84c000-6e881000 r--p 00000000 b3:16 667        /system/framework/okhttp.odex
+6e881000-6e884000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+6e884000-6e88b000 r--p 00000000 b3:16 642        /system/framework/core-junit.odex
+6e88b000-6e88c000 rw-p 00000000 00:04 1244       /dev/ashmem/dalvik-aux-structure (deleted)
+6e88c000-6e88f000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+6e88f000-6e890000 r--s 0037f000 b3:16 650        /system/framework/framework.jar
+6e890000-6e891000 r--s 0008e000 b3:16 652        /system/framework/framework2.jar
+6e891000-6e892000 r--s 00077000 b3:16 678        /system/framework/telephony-common.jar
+6e892000-6e893000 r--s 00010000 b3:16 682        /system/framework/voip-common.jar
+6e893000-6e897000 rw-p 00000000 00:04 8118       /dev/ashmem/dalvik-aux-structure (deleted)
+6e897000-6e898000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+6e898000-6e899000 r--s 0000c000 b3:16 662        /system/framework/mms-common.jar
+6e899000-6e89c000 rw-p 00000000 00:04 8119       /dev/ashmem/dalvik-aux-structure (deleted)
+6e89c000-6e89d000 r--s 0001a000 b3:16 613        /system/framework/android.policy.jar
+6e89d000-6e89e000 r--s 00063000 b3:16 621        /system/framework/bouncycastle.jar
+6e89e000-6e9af000 r--p 00000000 b3:16 622        /system/framework/bouncycastle.odex
+6e9af000-6e9c1000 rw-p 00000000 00:04 1245       /dev/ashmem/dalvik-aux-structure (deleted)
+6e9c1000-6e9d4000 r--s 00118000 b3:16 647        /system/framework/ext.jar
+6e9d4000-6eb45000 r--p 00000000 b3:16 648        /system/framework/ext.odex
+6eb45000-6eb62000 rw-p 00000000 00:04 1246       /dev/ashmem/dalvik-aux-structure (deleted)
+6eb62000-6eccf000 r--p 00000000 b3:16 651        /system/framework/framework.odex
+6eccf000-6ecd0000 r--p 0016d000 b3:16 651        /system/framework/framework.odex
+6ecd0000-6ecd4000 r--p 0016e000 b3:16 651        /system/framework/framework.odex
+6ecd4000-6ecd5000 r--p 00172000 b3:16 651        /system/framework/framework.odex
+6ecd5000-6ecda000 r--p 00173000 b3:16 651        /system/framework/framework.odex
+6ecda000-6ecdb000 r--p 00178000 b3:16 651        /system/framework/framework.odex
+6ecdb000-6ece8000 r--p 00179000 b3:16 651        /system/framework/framework.odex
+6ece8000-6ecea000 r--p 00186000 b3:16 651        /system/framework/framework.odex
+6ecea000-6eceb000 r--p 00188000 b3:16 651        /system/framework/framework.odex
+6eceb000-6ecec000 r--p 00189000 b3:16 651        /system/framework/framework.odex
+6ecec000-6ecf6000 r--p 0018a000 b3:16 651        /system/framework/framework.odex
+6ecf6000-6ecf7000 r--p 00194000 b3:16 651        /system/framework/framework.odex
+6ecf7000-6ecf8000 r--p 00195000 b3:16 651        /system/framework/framework.odex
+6ecf8000-6ecfa000 r--p 00196000 b3:16 651        /system/framework/framework.odex
+6ecfa000-6ed01000 r--p 00198000 b3:16 651        /system/framework/framework.odex
+6ed01000-6ed02000 r--p 0019f000 b3:16 651        /system/framework/framework.odex
+6ed02000-6ed03000 r--p 001a0000 b3:16 651        /system/framework/framework.odex
+6ed03000-6ed04000 r--p 001a1000 b3:16 651        /system/framework/framework.odex
+6ed04000-6ed05000 r--p 001a2000 b3:16 651        /system/framework/framework.odex
+6ed05000-6ed08000 r--p 001a3000 b3:16 651        /system/framework/framework.odex
+6ed08000-6ed09000 r--p 001a6000 b3:16 651        /system/framework/framework.odex
+6ed09000-6ed0d000 r--p 001a7000 b3:16 651        /system/framework/framework.odex
+6ed0d000-6ed0e000 r--p 001ab000 b3:16 651        /system/framework/framework.odex
+6ed0e000-6ed15000 r--p 001ac000 b3:16 651        /system/framework/framework.odex
+6ed15000-6ed18000 r--p 001b3000 b3:16 651        /system/framework/framework.odex
+6ed18000-6ed37000 r--p 001b6000 b3:16 651        /system/framework/framework.odex
+6ed37000-6ed38000 r--p 001d5000 b3:16 651        /system/framework/framework.odex
+6ed38000-6ed45000 r--p 001d6000 b3:16 651        /system/framework/framework.odex
+6ed45000-6ed46000 r--p 001e3000 b3:16 651        /system/framework/framework.odex
+6ed46000-6ed48000 r--p 001e4000 b3:16 651        /system/framework/framework.odex
+6ed48000-6ed49000 r--p 001e6000 b3:16 651        /system/framework/framework.odex
+6ed49000-6ed55000 r--p 001e7000 b3:16 651        /system/framework/framework.odex
+6ed55000-6ed57000 r--p 001f3000 b3:16 651        /system/framework/framework.odex
+6ed57000-6ed81000 r--p 001f5000 b3:16 651        /system/framework/framework.odex
+6ed81000-6ed82000 r--p 0021f000 b3:16 651        /system/framework/framework.odex
+6ed82000-6ed84000 r--p 00220000 b3:16 651        /system/framework/framework.odex
+6ed84000-6ed86000 r--p 00222000 b3:16 651        /system/framework/framework.odex
+6ed86000-6eda1000 r--p 00224000 b3:16 651        /system/framework/framework.odex
+6eda1000-6eda2000 r--p 0023f000 b3:16 651        /system/framework/framework.odex
+6eda2000-6eda4000 r--p 00240000 b3:16 651        /system/framework/framework.odex
+6eda4000-6eda5000 r--p 00242000 b3:16 651        /system/framework/framework.odex
+6eda5000-6eda7000 r--p 00243000 b3:16 651        /system/framework/framework.odex
+6eda7000-6eda8000 r--p 00245000 b3:16 651        /system/framework/framework.odex
+6eda8000-6edaa000 r--p 00246000 b3:16 651        /system/framework/framework.odex
+6edaa000-6edac000 r--p 00248000 b3:16 651        /system/framework/framework.odex
+6edac000-6edc5000 r--p 0024a000 b3:16 651        /system/framework/framework.odex
+6edc5000-6edc6000 r--p 00263000 b3:16 651        /system/framework/framework.odex
+6edc6000-6ede4000 r--p 00264000 b3:16 651        /system/framework/framework.odex
+6ede4000-6ede5000 r--p 00282000 b3:16 651        /system/framework/framework.odex
+6ede5000-6edeb000 r--p 00283000 b3:16 651        /system/framework/framework.odex
+6edeb000-6edec000 r--p 00289000 b3:16 651        /system/framework/framework.odex
+6edec000-6eded000 r--p 0028a000 b3:16 651        /system/framework/framework.odex
+6eded000-6edee000 r--p 0028b000 b3:16 651        /system/framework/framework.odex
+6edee000-6edef000 r--p 0028c000 b3:16 651        /system/framework/framework.odex
+6edef000-6edf2000 r--p 0028d000 b3:16 651        /system/framework/framework.odex
+6edf2000-6edf3000 r--p 00290000 b3:16 651        /system/framework/framework.odex
+6edf3000-6edf5000 r--p 00291000 b3:16 651        /system/framework/framework.odex
+6edf5000-6edf6000 r--p 00293000 b3:16 651        /system/framework/framework.odex
+6edf6000-6edf8000 r--p 00294000 b3:16 651        /system/framework/framework.odex
+6edf8000-6ee0a000 r--p 00296000 b3:16 651        /system/framework/framework.odex
+6ee0a000-6ee0b000 r--p 002a8000 b3:16 651        /system/framework/framework.odex
+6ee0b000-6ee11000 r--p 002a9000 b3:16 651        /system/framework/framework.odex
+6ee11000-6ee12000 r--p 002af000 b3:16 651        /system/framework/framework.odex
+6ee12000-6ee13000 r--p 002b0000 b3:16 651        /system/framework/framework.odex
+6ee13000-6ee16000 r--p 002b1000 b3:16 651        /system/framework/framework.odex
+6ee16000-6ee2a000 r--p 002b4000 b3:16 651        /system/framework/framework.odex
+6ee2a000-6ee2c000 r--p 002c8000 b3:16 651        /system/framework/framework.odex
+6ee2c000-6ee2e000 r--p 002ca000 b3:16 651        /system/framework/framework.odex
+6ee2e000-6ee2f000 r--p 002cc000 b3:16 651        /system/framework/framework.odex
+6ee2f000-6ee7c000 r--p 002cd000 b3:16 651        /system/framework/framework.odex
+6ee7c000-6ee7d000 r--p 0031a000 b3:16 651        /system/framework/framework.odex
+6ee7d000-6ee80000 r--p 0031b000 b3:16 651        /system/framework/framework.odex
+6ee80000-6ee81000 r--p 0031e000 b3:16 651        /system/framework/framework.odex
+6ee81000-6ee82000 r--p 0031f000 b3:16 651        /system/framework/framework.odex
+6ee82000-6ee83000 r--p 00320000 b3:16 651        /system/framework/framework.odex
+6ee83000-6ee8d000 r--p 00321000 b3:16 651        /system/framework/framework.odex
+6ee8d000-6ee8e000 r--p 0032b000 b3:16 651        /system/framework/framework.odex
+6ee8e000-6ee93000 r--p 0032c000 b3:16 651        /system/framework/framework.odex
+6ee93000-6ee94000 r--p 00331000 b3:16 651        /system/framework/framework.odex
+6ee94000-6ee99000 r--p 00332000 b3:16 651        /system/framework/framework.odex
+6ee99000-6ee9b000 r--p 00337000 b3:16 651        /system/framework/framework.odex
+6ee9b000-6eead000 r--p 00339000 b3:16 651        /system/framework/framework.odex
+6eead000-6eeae000 r--p 0034b000 b3:16 651        /system/framework/framework.odex
+6eeae000-6eee3000 r--p 0034c000 b3:16 651        /system/framework/framework.odex
+6eee3000-6eee4000 r--p 00381000 b3:16 651        /system/framework/framework.odex
+6eee4000-6eeed000 r--p 00382000 b3:16 651        /system/framework/framework.odex
+6eeed000-6eef0000 r--p 0038b000 b3:16 651        /system/framework/framework.odex
+6eef0000-6eeff000 r--p 0038e000 b3:16 651        /system/framework/framework.odex
+6eeff000-6ef01000 r--p 0039d000 b3:16 651        /system/framework/framework.odex
+6ef01000-6ef02000 r--p 0039f000 b3:16 651        /system/framework/framework.odex
+6ef02000-6ef04000 r--p 003a0000 b3:16 651        /system/framework/framework.odex
+6ef04000-6ef09000 r--p 003a2000 b3:16 651        /system/framework/framework.odex
+6ef09000-6ef0b000 r--p 003a7000 b3:16 651        /system/framework/framework.odex
+6ef0b000-6ef0e000 r--p 003a9000 b3:16 651        /system/framework/framework.odex
+6ef0e000-6ef0f000 r--p 003ac000 b3:16 651        /system/framework/framework.odex
+6ef0f000-6ef10000 r--p 003ad000 b3:16 651        /system/framework/framework.odex
+6ef10000-6ef11000 r--p 003ae000 b3:16 651        /system/framework/framework.odex
+6ef11000-6ef1a000 r--p 003af000 b3:16 651        /system/framework/framework.odex
+6ef1a000-6ef1b000 r--p 003b8000 b3:16 651        /system/framework/framework.odex
+6ef1b000-6ef5c000 r--p 003b9000 b3:16 651        /system/framework/framework.odex
+6ef5c000-6ef5d000 r--p 003fa000 b3:16 651        /system/framework/framework.odex
+6ef5d000-6ef61000 r--p 003fb000 b3:16 651        /system/framework/framework.odex
+6ef61000-6ef62000 r--p 003ff000 b3:16 651        /system/framework/framework.odex
+6ef62000-6ef65000 r--p 00400000 b3:16 651        /system/framework/framework.odex
+6ef65000-6ef66000 r--p 00403000 b3:16 651        /system/framework/framework.odex
+6ef66000-6ef67000 r--p 00404000 b3:16 651        /system/framework/framework.odex
+6ef67000-6ef6a000 r--p 00405000 b3:16 651        /system/framework/framework.odex
+6ef6a000-6ef6d000 r--p 00408000 b3:16 651        /system/framework/framework.odex
+6ef6d000-6ef6e000 r--p 0040b000 b3:16 651        /system/framework/framework.odex
+6ef6e000-6ef6f000 r--p 0040c000 b3:16 651        /system/framework/framework.odex
+6ef6f000-6ef70000 r--p 0040d000 b3:16 651        /system/framework/framework.odex
+6ef70000-6ef7b000 r--p 0040e000 b3:16 651        /system/framework/framework.odex
+6ef7b000-6ef7c000 r--p 00419000 b3:16 651        /system/framework/framework.odex
+6ef7c000-6ef8b000 r--p 0041a000 b3:16 651        /system/framework/framework.odex
+6ef8b000-6ef8c000 r--p 00429000 b3:16 651        /system/framework/framework.odex
+6ef8c000-6ef8d000 r--p 0042a000 b3:16 651        /system/framework/framework.odex
+6ef8d000-6ef8e000 r--p 0042b000 b3:16 651        /system/framework/framework.odex
+6ef8e000-6ef8f000 r--p 0042c000 b3:16 651        /system/framework/framework.odex
+6ef8f000-6ef94000 r--p 0042d000 b3:16 651        /system/framework/framework.odex
+6ef94000-6ef96000 r--p 00432000 b3:16 651        /system/framework/framework.odex
+6ef96000-6ef9b000 r--p 00434000 b3:16 651        /system/framework/framework.odex
+6ef9b000-6ef9d000 r--p 00439000 b3:16 651        /system/framework/framework.odex
+6ef9d000-6efa0000 r--p 0043b000 b3:16 651        /system/framework/framework.odex
+6efa0000-6efa1000 r--p 0043e000 b3:16 651        /system/framework/framework.odex
+6efa1000-6efa3000 r--p 0043f000 b3:16 651        /system/framework/framework.odex
+6efa3000-6efa4000 r--p 00441000 b3:16 651        /system/framework/framework.odex
+6efa4000-6efac000 r--p 00442000 b3:16 651        /system/framework/framework.odex
+6efac000-6efae000 r--p 0044a000 b3:16 651        /system/framework/framework.odex
+6efae000-6efb0000 r--p 0044c000 b3:16 651        /system/framework/framework.odex
+6efb0000-6efb1000 r--p 0044e000 b3:16 651        /system/framework/framework.odex
+6efb1000-6efb3000 r--p 0044f000 b3:16 651        /system/framework/framework.odex
+6efb3000-6efb4000 r--p 00451000 b3:16 651        /system/framework/framework.odex
+6efb4000-6efbd000 r--p 00452000 b3:16 651        /system/framework/framework.odex
+6efbd000-6efbf000 r--p 0045b000 b3:16 651        /system/framework/framework.odex
+6efbf000-6efc3000 r--p 0045d000 b3:16 651        /system/framework/framework.odex
+6efc3000-6efc4000 r--p 00461000 b3:16 651        /system/framework/framework.odex
+6efc4000-6efc7000 r--p 00462000 b3:16 651        /system/framework/framework.odex
+6efc7000-6efc8000 r--p 00465000 b3:16 651        /system/framework/framework.odex
+6efc8000-6efc9000 r--p 00466000 b3:16 651        /system/framework/framework.odex
+6efc9000-6efca000 r--p 00467000 b3:16 651        /system/framework/framework.odex
+6efca000-6efd1000 r--p 00468000 b3:16 651        /system/framework/framework.odex
+6efd1000-6efd4000 r--p 0046f000 b3:16 651        /system/framework/framework.odex
+6efd4000-6efd5000 r--p 00472000 b3:16 651        /system/framework/framework.odex
+6efd5000-6efd7000 r--p 00473000 b3:16 651        /system/framework/framework.odex
+6efd7000-6efd8000 r--p 00475000 b3:16 651        /system/framework/framework.odex
+6efd8000-6efe7000 r--p 00476000 b3:16 651        /system/framework/framework.odex
+6efe7000-6efe8000 r--p 00485000 b3:16 651        /system/framework/framework.odex
+6efe8000-6efee000 r--p 00486000 b3:16 651        /system/framework/framework.odex
+6efee000-6efef000 r--p 0048c000 b3:16 651        /system/framework/framework.odex
+6efef000-6eff0000 r--p 0048d000 b3:16 651        /system/framework/framework.odex
+6eff0000-6eff1000 r--p 0048e000 b3:16 651        /system/framework/framework.odex
+6eff1000-6effe000 r--p 0048f000 b3:16 651        /system/framework/framework.odex
+6effe000-6efff000 r--p 0049c000 b3:16 651        /system/framework/framework.odex
+6efff000-6f002000 r--p 0049d000 b3:16 651        /system/framework/framework.odex
+6f002000-6f003000 r--p 004a0000 b3:16 651        /system/framework/framework.odex
+6f003000-6f007000 r--p 004a1000 b3:16 651        /system/framework/framework.odex
+6f007000-6f008000 r--p 004a5000 b3:16 651        /system/framework/framework.odex
+6f008000-6f00b000 r--p 004a6000 b3:16 651        /system/framework/framework.odex
+6f00b000-6f00c000 r--p 004a9000 b3:16 651        /system/framework/framework.odex
+6f00c000-6f00f000 r--p 004aa000 b3:16 651        /system/framework/framework.odex
+6f00f000-6f010000 r--p 004ad000 b3:16 651        /system/framework/framework.odex
+6f010000-6f017000 r--p 004ae000 b3:16 651        /system/framework/framework.odex
+6f017000-6f019000 r--p 004b5000 b3:16 651        /system/framework/framework.odex
+6f019000-6f032000 r--p 004b7000 b3:16 651        /system/framework/framework.odex
+6f032000-6f033000 r--p 004d0000 b3:16 651        /system/framework/framework.odex
+6f033000-6f035000 r--p 004d1000 b3:16 651        /system/framework/framework.odex
+6f035000-6f036000 r--p 004d3000 b3:16 651        /system/framework/framework.odex
+6f036000-6f47d000 r--p 004d4000 b3:16 651        /system/framework/framework.odex
+6f47d000-6f530000 rw-p 00000000 00:04 1247       /dev/ashmem/dalvik-aux-structure (deleted)
+6f530000-6f6b6000 r--p 00000000 b3:16 653        /system/framework/framework2.odex
+6f6b6000-6f6dd000 rw-p 00000000 00:04 8116       /dev/ashmem/dalvik-aux-structure (deleted)
+6f6dd000-6f81a000 r--p 00000000 b3:16 679        /system/framework/telephony-common.odex
+6f81a000-6f833000 rw-p 00000000 00:04 8117       /dev/ashmem/dalvik-aux-structure (deleted)
+6f833000-6f85d000 r--p 00000000 b3:16 683        /system/framework/voip-common.odex
+6f85d000-6f86a000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+6f86a000-6f88a000 r--p 00000000 b3:16 663        /system/framework/mms-common.odex
+6f88a000-6f8c9000 r--p 00000000 b3:16 614        /system/framework/android.policy.odex
+6f8c9000-6f8d0000 rw-p 00000000 00:04 1248       /dev/ashmem/dalvik-aux-structure (deleted)
+6f8d0000-6f8e1000 rw-p 00000000 00:04 1251       /dev/ashmem/dalvik-aux-structure (deleted)
+6f8e1000-6f8e2000 r--s 0015c000 b3:16 672        /system/framework/services.jar
+6f8e2000-6fc3d000 r--p 00000000 b3:16 673        /system/framework/services.odex
+6fc3d000-6fc76000 rw-p 00000000 00:04 1249       /dev/ashmem/dalvik-aux-structure (deleted)
+6fc76000-6fc78000 r--s 00085000 b3:16 617        /system/framework/apache-xml.jar
+6fc78000-6fdc9000 r--p 00000000 b3:16 618        /system/framework/apache-xml.odex
+6fdc9000-6fde1000 rw-p 00000000 00:04 1250       /dev/ashmem/dalvik-aux-structure (deleted)
+6fde1000-6fde2000 r--s 00046000 b3:16 740        /system/framework/webviewchromium.jar
+6fde2000-6fe9f000 r--p 00000000 b3:16 741        /system/framework/webviewchromium.odex
+6fe9f000-6fea0000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+6fea0000-6fed0000 r-xp 00000000 b3:16 941        /system/lib/libjavacore.so
+6fed0000-6fed1000 ---p 00000000 00:00 0 
+6fed1000-6fed2000 r--p 00030000 b3:16 941        /system/lib/libjavacore.so
+6fed2000-6fed4000 rw-p 00031000 b3:16 941        /system/lib/libjavacore.so
+6fed4000-710fb000 r--s 00000000 b3:16 1282       /system/usr/icu/icudt51l.dat
+710fb000-710fc000 ---p 00000000 00:00 0 
+710fc000-711f9000 rw-p 00000000 00:00 0          [stack:1884]
+711f9000-711ff000 rw-p 00000000 00:00 0 
+711ff000-71200000 ---p 00000000 00:00 0 
+71200000-712fd000 rw-p 00000000 00:00 0          [stack:1887]
+712fd000-71303000 rw-p 00000000 00:00 0 
+71303000-71304000 ---p 00000000 00:00 0 
+71304000-71401000 rw-p 00000000 00:00 0          [stack:1888]
+71401000-71407000 rw-p 00000000 00:00 0 
+71407000-71426000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+71426000-71427000 r-xp 00000000 b3:16 776        /system/lib/hw/memtrack.msm8960.so
+71427000-71428000 r--p 00000000 b3:16 776        /system/lib/hw/memtrack.msm8960.so
+71428000-71429000 rw-p 00001000 b3:16 776        /system/lib/hw/memtrack.msm8960.so
+71429000-71434000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+71434000-7143d000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7143d000-7143f000 r-xp 00000000 b3:16 817        /system/lib/libadreno_utils.so
+7143f000-71440000 r--p 00001000 b3:16 817        /system/lib/libadreno_utils.so
+71440000-71441000 rw-p 00002000 b3:16 817        /system/lib/libadreno_utils.so
+71441000-71442000 rw-p 00000000 00:00 0 
+71442000-71470000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+71470000-714a0000 r--s 00e7f000 b3:16 649        /system/framework/framework-res.apk
+714a0000-71bd7000 r--s 00729000 b3:16 649        /system/framework/framework-res.apk
+71bd7000-71be3000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+71be3000-71be9000 r-xp 00000000 b3:16 871        /system/lib/libdrmframework_jni.so
+71be9000-71bea000 r--p 00005000 b3:16 871        /system/lib/libdrmframework_jni.so
+71bea000-71beb000 rw-p 00006000 b3:16 871        /system/lib/libdrmframework_jni.so
+71beb000-71bff000 r-xp 00000000 b3:16 870        /system/lib/libdrmframework.so
+71bff000-71c02000 r--p 00013000 b3:16 870        /system/lib/libdrmframework.so
+71c02000-71c03000 rw-p 00016000 b3:16 870        /system/lib/libdrmframework.so
+71c03000-71c1d000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+71c1d000-71c3a000 r--p 00000000 b3:16 603        /system/fonts/Roboto-Regular.ttf
+71c3a000-71c4a000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+71c4a000-71c7c000 r-xp 00000000 b3:16 971        /system/lib/libmedia_jni.so
+71c7c000-71c7e000 r--p 00031000 b3:16 971        /system/lib/libmedia_jni.so
+71c7e000-71c7f000 rw-p 00033000 b3:16 971        /system/lib/libmedia_jni.so
+71c7f000-71d6b000 r-xp 00000000 b3:16 1069       /system/lib/libstagefright.so
+71d6b000-71d71000 r--p 000eb000 b3:16 1069       /system/lib/libstagefright.so
+71d71000-71d72000 rw-p 000f1000 b3:16 1069       /system/lib/libstagefright.so
+71d72000-71d73000 r-xp 00000000 b3:16 856        /system/lib/libconnectivitymanager.so
+71d73000-71d74000 r--p 00000000 b3:16 856        /system/lib/libconnectivitymanager.so
+71d74000-71d75000 rw-p 00001000 b3:16 856        /system/lib/libconnectivitymanager.so
+71d75000-71d8d000 r-xp 00000000 b3:16 1077       /system/lib/libstagefright_omx.so
+71d8d000-71d8f000 r--p 00017000 b3:16 1077       /system/lib/libstagefright_omx.so
+71d8f000-71d90000 rw-p 00019000 b3:16 1077       /system/lib/libstagefright_omx.so
+71d90000-71d92000 r-xp 00000000 b3:16 1096       /system/lib/libstagefright_yuv.so
+71d92000-71d93000 r--p 00001000 b3:16 1096       /system/lib/libstagefright_yuv.so
+71d93000-71d94000 rw-p 00002000 b3:16 1096       /system/lib/libstagefright_yuv.so
+71d94000-71dac000 r-xp 00000000 b3:16 1120       /system/lib/libvorbisidec.so
+71dac000-71dad000 r--p 00017000 b3:16 1120       /system/lib/libvorbisidec.so
+71dad000-71dae000 rw-p 00018000 b3:16 1120       /system/lib/libvorbisidec.so
+71dae000-71db1000 r-xp 00000000 b3:16 1019       /system/lib/libpowermanager.so
+71db1000-71db2000 r--p 00002000 b3:16 1019       /system/lib/libpowermanager.so
+71db2000-71db3000 rw-p 00003000 b3:16 1019       /system/lib/libpowermanager.so
+71db3000-71db4000 r-xp 00000000 b3:16 1073       /system/lib/libstagefright_enc_common.so
+71db4000-71db5000 r--p 00000000 b3:16 1073       /system/lib/libstagefright_enc_common.so
+71db5000-71db6000 rw-p 00001000 b3:16 1073       /system/lib/libstagefright_enc_common.so
+71db6000-71dbb000 r-xp 00000000 b3:16 1071       /system/lib/libstagefright_avc_common.so
+71dbb000-71dbc000 r--p 00004000 b3:16 1071       /system/lib/libstagefright_avc_common.so
+71dbc000-71dbd000 rw-p 00005000 b3:16 1071       /system/lib/libstagefright_avc_common.so
+71dbd000-71dce000 r-xp 00000000 b3:16 986        /system/lib/libmtp.so
+71dce000-71dcf000 ---p 00000000 00:00 0 
+71dcf000-71dd0000 r--p 00011000 b3:16 986        /system/lib/libmtp.so
+71dd0000-71dd1000 rw-p 00012000 b3:16 986        /system/lib/libmtp.so
+71dd1000-71dd2000 r--p 00000000 00:00 0 
+71dd2000-71df1000 r-xp 00000000 b3:16 890        /system/lib/libexif.so
+71df1000-71dfd000 r--p 0001e000 b3:16 890        /system/lib/libexif.so
+71dfd000-71dfe000 rw-p 0002a000 b3:16 890        /system/lib/libexif.so
+71dfe000-71e0a000 r-xp 00000000 b3:16 1070       /system/lib/libstagefright_amrnb_common.so
+71e0a000-71e0b000 r--p 0000b000 b3:16 1070       /system/lib/libstagefright_amrnb_common.so
+71e0b000-71e0c000 rw-p 0000c000 b3:16 1070       /system/lib/libstagefright_amrnb_common.so
+71e0c000-71e0e000 r-xp 00000000 b3:16 945        /system/lib/libjhead_jni.so
+71e0e000-71e0f000 r--p 00001000 b3:16 945        /system/lib/libjhead_jni.so
+71e0f000-71e10000 rw-p 00002000 b3:16 945        /system/lib/libjhead_jni.so
+71e10000-71e18000 r-xp 00000000 b3:16 944        /system/lib/libjhead.so
+71e18000-71e19000 ---p 00000000 00:00 0 
+71e19000-71e1a000 r--p 00008000 b3:16 944        /system/lib/libjhead.so
+71e1a000-71e1b000 rw-p 00009000 b3:16 944        /system/lib/libjhead.so
+71e1b000-71e1c000 rw-p 00000000 00:00 0 
+71e1c000-71e2f000 r-xp 00000000 b3:16 1115       /system/lib/libvideoeditor_jni.so
+71e2f000-71e30000 ---p 00000000 00:00 0 
+71e30000-71e31000 r--p 00013000 b3:16 1115       /system/lib/libvideoeditor_jni.so
+71e31000-71e33000 rw-p 00014000 b3:16 1115       /system/lib/libvideoeditor_jni.so
+71e33000-71e65000 r-xp 00000000 b3:16 828        /system/lib/libaudioflinger.so
+71e65000-71e66000 ---p 00000000 00:00 0 
+71e66000-71e6c000 r--p 00032000 b3:16 828        /system/lib/libaudioflinger.so
+71e6c000-71e6d000 rw-p 00038000 b3:16 828        /system/lib/libaudioflinger.so
+71e6d000-71e78000 r-xp 00000000 b3:16 853        /system/lib/libcommon_time_client.so
+71e78000-71e79000 ---p 00000000 00:00 0 
+71e79000-71e7c000 r--p 0000b000 b3:16 853        /system/lib/libcommon_time_client.so
+71e7c000-71e7d000 rw-p 0000e000 b3:16 853        /system/lib/libcommon_time_client.so
+71e7d000-71e83000 r-xp 00000000 b3:16 989        /system/lib/libnbaio.so
+71e83000-71e84000 r--p 00005000 b3:16 989        /system/lib/libnbaio.so
+71e84000-71e85000 rw-p 00006000 b3:16 989        /system/lib/libnbaio.so
+71e85000-71e87000 r-xp 00000000 b3:16 882        /system/lib/libeffects.so
+71e87000-71e88000 r--p 00001000 b3:16 882        /system/lib/libeffects.so
+71e88000-71e89000 rw-p 00002000 b3:16 882        /system/lib/libeffects.so
+71e89000-71ebe000 r-xp 00000000 b3:16 1114       /system/lib/libvideoeditor_core.so
+71ebe000-71ebf000 ---p 00000000 00:00 0 
+71ebf000-71ec0000 r--p 00035000 b3:16 1114       /system/lib/libvideoeditor_core.so
+71ec0000-71ec1000 rw-p 00036000 b3:16 1114       /system/lib/libvideoeditor_core.so
+71ec1000-71ec5000 r-xp 00000000 b3:16 1116       /system/lib/libvideoeditor_osal.so
+71ec5000-71ec6000 r--p 00003000 b3:16 1116       /system/lib/libvideoeditor_osal.so
+71ec6000-71ec7000 rw-p 00004000 b3:16 1116       /system/lib/libvideoeditor_osal.so
+71ec7000-71eca000 r-xp 00000000 b3:16 1117       /system/lib/libvideoeditor_videofilters.so
+71eca000-71ecb000 r--p 00002000 b3:16 1117       /system/lib/libvideoeditor_videofilters.so
+71ecb000-71ecc000 rw-p 00003000 b3:16 1117       /system/lib/libvideoeditor_videofilters.so
+71ecc000-71ee8000 r-xp 00000000 b3:16 1118       /system/lib/libvideoeditorplayer.so
+71ee8000-71ee9000 ---p 00000000 00:00 0 
+71ee9000-71eea000 r--p 0001c000 b3:16 1118       /system/lib/libvideoeditorplayer.so
+71eea000-71eeb000 rw-p 0001d000 b3:16 1118       /system/lib/libvideoeditorplayer.so
+71eeb000-71ef3000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+71ef3000-71ef9000 r-xp 00000000 b3:16 1050       /system/lib/librs_jni.so
+71ef9000-71efa000 ---p 00000000 00:00 0 
+71efa000-71efb000 r--p 00006000 b3:16 1050       /system/lib/librs_jni.so
+71efb000-71efc000 rw-p 00007000 b3:16 1050       /system/lib/librs_jni.so
+71efc000-71efd000 r--p 00000000 00:00 0 
+71efd000-71f2b000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+71f2b000-73251000 r-xp 00000000 b3:16 1124       /system/lib/libwebviewchromium.so
+73251000-73348000 r--p 01325000 b3:16 1124       /system/lib/libwebviewchromium.so
+73348000-7335d000 rw-p 0141c000 b3:16 1124       /system/lib/libwebviewchromium.so
+7335d000-73379000 rw-p 00000000 00:00 0 
+73379000-73386000 r-xp 00000000 b3:16 818        /system/lib/libandroid.so
+73386000-73388000 r--p 0000c000 b3:16 818        /system/lib/libandroid.so
+73388000-73389000 rw-p 0000e000 b3:16 818        /system/lib/libandroid.so
+73389000-7338a000 r-xp 00000000 b3:16 958        /system/lib/libjnigraphics.so
+7338a000-7338b000 r--p 00000000 b3:16 958        /system/lib/libjnigraphics.so
+7338b000-7338c000 rw-p 00001000 b3:16 958        /system/lib/libjnigraphics.so
+7338c000-7338e000 r-xp 00000000 b3:16 1125       /system/lib/libwebviewchromium_plat_support.so
+7338e000-7338f000 r--p 00001000 b3:16 1125       /system/lib/libwebviewchromium_plat_support.so
+7338f000-73390000 rw-p 00002000 b3:16 1125       /system/lib/libwebviewchromium_plat_support.so
+73390000-733d0000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+733d0000-733e2000 r-xp 00000000 b3:16 942        /system/lib/libjavacrypto.so
+733e2000-733e3000 r--p 00011000 b3:16 942        /system/lib/libjavacrypto.so
+733e3000-733e4000 rw-p 00012000 b3:16 942        /system/lib/libjavacrypto.so
+733e4000-7346d000 r--s 00000000 b3:16 1333       /system/usr/share/zoneinfo/tzdata
+7346d000-734a3000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+734a3000-746ca000 r--s 00000000 b3:16 1282       /system/usr/icu/icudt51l.dat
+746ca000-746e6000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+746e6000-746e8000 rw-p 00000000 00:00 0 
+746e8000-746e9000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+746e9000-746f1000 rw-p 00000000 00:00 0 
+746f1000-746f2000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+746f2000-74716000 r-xp 00000000 b3:16 752        /system/lib/egl/libEGL_adreno.so
+74716000-74717000 ---p 00000000 00:00 0 
+74717000-74718000 r--p 00024000 b3:16 752        /system/lib/egl/libEGL_adreno.so
+74718000-74719000 rw-p 00025000 b3:16 752        /system/lib/egl/libEGL_adreno.so
+74719000-74732000 r-xp 00000000 b3:16 918        /system/lib/libgsl.so
+74732000-74733000 r--p 00018000 b3:16 918        /system/lib/libgsl.so
+74733000-74734000 rw-p 00019000 b3:16 918        /system/lib/libgsl.so
+74734000-74764000 r-xp 00000000 b3:16 754        /system/lib/egl/libGLESv1_CM_adreno.so
+74764000-74765000 ---p 00000000 00:00 0 
+74765000-74766000 r--p 00030000 b3:16 754        /system/lib/egl/libGLESv1_CM_adreno.so
+74766000-74767000 rw-p 00031000 b3:16 754        /system/lib/egl/libGLESv1_CM_adreno.so
+74767000-7485e000 r-xp 00000000 b3:16 755        /system/lib/egl/libGLESv2_adreno.so
+7485e000-7485f000 ---p 00000000 00:00 0 
+7485f000-74861000 r--p 000f7000 b3:16 755        /system/lib/egl/libGLESv2_adreno.so
+74861000-74894000 rw-p 000f9000 b3:16 755        /system/lib/egl/libGLESv2_adreno.so
+74894000-74895000 rw-p 00000000 00:00 0 
+74895000-74896000 ---p 00000000 00:00 0 
+74896000-74993000 rw-p 00000000 00:00 0          [stack:1889]
+74993000-74994000 ---p 00000000 00:00 0 
+74994000-74a91000 rw-p 00000000 00:00 0          [stack:1890]
+74a91000-74a97000 rw-p 00000000 00:00 0 
+74a97000-74a98000 ---p 00000000 00:00 0 
+74a98000-74b95000 rw-p 00000000 00:00 0          [stack:1891]
+74b95000-74b9b000 rw-p 00000000 00:00 0 
+74b9b000-74b9c000 ---p 00000000 00:00 0 
+74b9c000-74c99000 rw-p 00000000 00:00 0          [stack:1892]
+74c99000-74c9b000 rw-p 00000000 00:00 0 
+74c9b000-74c9c000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+74c9c000-74d9a000 r--p 00000000 00:0b 7520       /dev/binder
+74d9a000-74d9b000 ---p 00000000 00:00 0 
+74d9b000-74e98000 rw-p 00000000 00:00 0          [stack:1893]
+74e98000-74e9e000 rw-p 00000000 00:00 0 
+74e9e000-74e9f000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+74e9f000-74ea0000 ---p 00000000 00:00 0 
+74ea0000-74f9d000 rw-p 00000000 00:00 0          [stack:1894]
+74f9d000-74fa3000 rw-p 00000000 00:00 0 
+74fa3000-74fa4000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+74fa4000-74fcb000 r--s 00b38000 b3:16 26         /system/app/Chrome.apk
+74fcb000-74fd4000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+74fd4000-751ae000 r--s 00946000 b3:16 26         /system/app/Chrome.apk
+751ae000-751bf000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+751bf000-751e6000 r--s 00b38000 b3:16 26         /system/app/Chrome.apk
+751e6000-755a9000 r--p 00000000 b3:1e 684120     /data/dalvik-cache/system@app@Chrome.apk@classes.dex
+755a9000-755f5000 rw-p 00000000 00:04 11310      /dev/ashmem/dalvik-aux-structure (deleted)
+755f5000-75603000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+75603000-75604000 r--p 00000000 00:00 0 
+75604000-75608000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+75608000-7561f000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7561f000-7562f000 rw-p 00000000 00:00 0 
+75633000-75637000 rw-p 00000000 00:00 0 
+7563c000-7563e000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7563f000-75641000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+75641000-75643000 rw-p 00000000 00:00 0 
+75643000-756fd000 r--s 00000000 b3:1e 114398     /data/data/com.android.chrome/app_chrome/paks/chrome_100_percent.pak
+756fd000-75723000 rw-p 00000000 00:00 0 
+75723000-75727000 rw-p 00000000 00:00 0 
+75727000-75728000 ---p 00000000 00:00 0 
+75728000-75825000 rw-p 00000000 00:00 0          [stack:1898]
+75825000-75827000 rw-p 00000000 00:00 0 
+75827000-75829000 r--s af9d0000 00:0b 7796       /dev/kgsl-3d0
+75829000-75832000 r-xp 00000000 b3:16 751        /system/lib/egl/eglsubAndroid.so
+75832000-75833000 r--p 00008000 b3:16 751        /system/lib/egl/eglsubAndroid.so
+75833000-75834000 rw-p 00009000 b3:16 751        /system/lib/egl/eglsubAndroid.so
+75834000-75835000 ---p 00000000 00:00 0 
+75835000-75932000 rw-p 00000000 00:00 0          [stack:1929]
+75932000-75934000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+75934000-75935000 r--p 00000000 00:00 0 
+75935000-75938000 r-xp 00000000 b3:16 770        /system/lib/hw/gralloc.msm8960.so
+75938000-75939000 r--p 00002000 b3:16 770        /system/lib/hw/gralloc.msm8960.so
+75939000-7593a000 rw-p 00003000 b3:16 770        /system/lib/hw/gralloc.msm8960.so
+7593a000-7593d000 r-xp 00000000 b3:16 974        /system/lib/libmemalloc.so
+7593d000-7593e000 r--p 00002000 b3:16 974        /system/lib/libmemalloc.so
+7593e000-7593f000 rw-p 00003000 b3:16 974        /system/lib/libmemalloc.so
+7593f000-75942000 r-xp 00000000 b3:16 1024       /system/lib/libqdutils.so
+75942000-75943000 r--p 00002000 b3:16 1024       /system/lib/libqdutils.so
+75943000-75944000 rw-p 00003000 b3:16 1024       /system/lib/libqdutils.so
+75944000-75948000 rw-p 00000000 00:00 0 
+75948000-75949000 ---p 00000000 00:00 0 
+75949000-75a46000 rw-p 00000000 00:00 0          [stack:1900]
+75a46000-75a4c000 rw-p 00000000 00:00 0 
+75a4c000-75a4d000 ---p 00000000 00:00 0 
+75a4d000-75b4a000 rw-p 00000000 00:00 0          [stack:1901]
+75b4a000-75b4e000 rw-p 00000000 00:00 0 
+75b4e000-75b4f000 ---p 00000000 00:00 0 
+75b4f000-75c4c000 rw-p 00000000 00:00 0          [stack:1902]
+75c4c000-75c50000 rw-p 00000000 00:00 0 
+75c50000-75c52000 rw-s 00001000 00:0b 7796       /dev/kgsl-3d0
+75c52000-75c63000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+75c63000-76018000 r-xp 00000000 b3:16 1053       /system/lib/libsc-a3xx.so
+76018000-7603c000 r--p 003b4000 b3:16 1053       /system/lib/libsc-a3xx.so
+7603c000-7603e000 rw-p 003d8000 b3:16 1053       /system/lib/libsc-a3xx.so
+7603e000-7604c000 rw-p 00000000 00:00 0 
+7604c000-76094000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+760b4000-760b8000 rw-p 00000000 00:00 0 
+760b8000-760c4000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+760c4000-760c6000 rw-p 00000000 00:00 0 
+760c6000-760c9000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+760c9000-76104000 r--s 00000000 b3:1e 114402     /data/data/com.android.chrome/app_chrome/paks/en-US.pak
+76104000-76105000 ---p 00000000 00:00 0 
+76105000-76202000 rw-p 00000000 00:00 0          [stack:1930]
+76202000-7620c000 rw-p 00000000 00:00 0 
+7620c000-76210000 r--p 00000000 b3:16 545        /system/fonts/DroidSansArmenian.ttf
+76210000-76211000 rw-s 00000000 00:04 10817      /dev/ashmem (deleted)
+76211000-76213000 rw-s 00077000 00:0b 7796       /dev/kgsl-3d0
+76213000-76215000 rw-s 00078000 00:0b 7796       /dev/kgsl-3d0
+76215000-76217000 rw-s 00079000 00:0b 7796       /dev/kgsl-3d0
+76217000-76219000 rw-s 0007a000 00:0b 7796       /dev/kgsl-3d0
+76219000-7621b000 rw-s 0007b000 00:0b 7796       /dev/kgsl-3d0
+7621b000-7621c000 rw-s 00000000 00:04 11370      /dev/ashmem (deleted)
+7621c000-7621e000 rw-s 0007c000 00:0b 7796       /dev/kgsl-3d0
+7621e000-76220000 rw-s 0007d000 00:0b 7796       /dev/kgsl-3d0
+76220000-76225000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+76225000-76226000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+76226000-7622c000 rw-p 00000000 00:00 0 
+7622c000-7622d000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7622d000-76235000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+76235000-76239000 rw-p 00000000 00:00 0 
+76239000-7624c000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7624c000-7625c000 rw-p 00000000 00:00 0 
+7625c000-7626c000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7626c000-76272000 rw-p 00000000 00:00 0 
+76272000-7627e000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7627e000-76297000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7629b000-7629e000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7629e000-762b2000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+762b2000-762b5000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+762b5000-762b8000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+762b8000-762b9000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+762b9000-762bb000 rw-s 00005000 00:0b 7796       /dev/kgsl-3d0
+762bb000-762be000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+762be000-762c1000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+762c1000-762c4000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+762c4000-762d5000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+762d5000-762df000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+762df000-762f4000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+762f4000-762f8000 rw-p 00000000 00:00 0 
+762f8000-76327000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+76327000-76359000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7635b000-7637e000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7637e000-7638f000 rw-s 00019000 00:0b 7796       /dev/kgsl-3d0
+7638f000-763a0000 rw-s 0001a000 00:0b 7796       /dev/kgsl-3d0
+763a0000-763b1000 rw-s 0001b000 00:0b 7796       /dev/kgsl-3d0
+763b1000-763b3000 rw-s 0001c000 00:0b 7796       /dev/kgsl-3d0
+763b3000-763bd000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+763bd000-763d7000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+763d7000-763d8000 ---p 00000000 00:00 0 
+763d8000-764d5000 rw-p 00000000 00:00 0          [stack:2039]
+764d5000-76639000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+76639000-7667a000 rw-s 0001d000 00:0b 7796       /dev/kgsl-3d0
+7667a000-7667d000 rw-s 0001e000 00:0b 7796       /dev/kgsl-3d0
+7667d000-76680000 rw-s 0001f000 00:0b 7796       /dev/kgsl-3d0
+76680000-76682000 rw-s 00020000 00:0b 7796       /dev/kgsl-3d0
+76682000-76684000 rw-s 00021000 00:0b 7796       /dev/kgsl-3d0
+76684000-76686000 rw-s 00022000 00:0b 7796       /dev/kgsl-3d0
+76686000-76688000 rw-s 00023000 00:0b 7796       /dev/kgsl-3d0
+76688000-76699000 rw-s 00024000 00:0b 7796       /dev/kgsl-3d0
+76699000-7669b000 rw-s 00025000 00:0b 7796       /dev/kgsl-3d0
+7669b000-7669d000 rw-s 00026000 00:0b 7796       /dev/kgsl-3d0
+7669d000-7669f000 rw-s 00027000 00:0b 7796       /dev/kgsl-3d0
+7669f000-766a1000 rw-s 00028000 00:0b 7796       /dev/kgsl-3d0
+766a1000-766a3000 rw-s 00029000 00:0b 7796       /dev/kgsl-3d0
+766a3000-766a5000 rw-s 0002a000 00:0b 7796       /dev/kgsl-3d0
+766a5000-766a7000 rw-s 0002b000 00:0b 7796       /dev/kgsl-3d0
+766a7000-766dd000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+766dd000-78901000 r-xp 00000000 b3:16 848        /system/lib/libchromeview.so
+78901000-78a51000 r--p 02223000 b3:16 848        /system/lib/libchromeview.so
+78a51000-78a6b000 rw-p 02373000 b3:16 848        /system/lib/libchromeview.so
+78a6b000-78aac000 rw-p 00000000 00:00 0 
+78aac000-78ab0000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+78ab0000-78ab1000 ---p 00000000 00:00 0 
+78ab1000-78bae000 rw-p 00000000 00:00 0          [stack:1997]
+78bb0000-78bb8000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+78bb8000-78bb9000 r--p 00000000 00:00 0 
+78bb9000-78bbc000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+78bbc000-78bfd000 rw-s 0002c000 00:0b 7796       /dev/kgsl-3d0
+78bfd000-78c3e000 rw-s 0002d000 00:0b 7796       /dev/kgsl-3d0
+78c3e000-78c7f000 rw-s 0002e000 00:0b 7796       /dev/kgsl-3d0
+78c7f000-78cc0000 rw-s 0002f000 00:0b 7796       /dev/kgsl-3d0
+78cc0000-78d01000 rw-s 00030000 00:0b 7796       /dev/kgsl-3d0
+78d01000-78d42000 rw-s 00031000 00:0b 7796       /dev/kgsl-3d0
+78d42000-78d83000 rw-s 00032000 00:0b 7796       /dev/kgsl-3d0
+78d83000-78d94000 rw-s 00033000 00:0b 7796       /dev/kgsl-3d0
+78d94000-78d96000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+78d96000-78d98000 rw-s 00034000 00:0b 7796       /dev/kgsl-3d0
+78d98000-78dc2000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+78dc2000-78dd3000 rw-s 0006f000 00:0b 7796       /dev/kgsl-3d0
+78dd3000-78dd5000 rw-s 00070000 00:0b 7796       /dev/kgsl-3d0
+78dda000-794ba000 rw-s 00000000 00:08 5501       anon_inode:dmabuf
+794ba000-794bb000 rw-s 00000000 00:08 5501       anon_inode:dmabuf
+794bb000-794c4000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+794c4000-794c6000 rw-s 0003b000 00:0b 7796       /dev/kgsl-3d0
+794cb000-794f8000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+794f8000-794fa000 rw-s 00056000 00:0b 7796       /dev/kgsl-3d0
+794fa000-794fc000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+794fc000-794fe000 rw-s 0003d000 00:0b 7796       /dev/kgsl-3d0
+79505000-7950a000 rw-s 00040000 00:0b 7796       /dev/kgsl-3d0
+7950f000-79510000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+79510000-79512000 rw-s 00042000 00:0b 7796       /dev/kgsl-3d0
+79512000-7951c000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7951c000-79520000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+79531000-79545000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+79546000-79567000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7956b000-7959a000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7959a000-7969b000 rw-s 00037000 00:0b 7796       /dev/kgsl-3d0
+7969b000-796a0000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+796a0000-797c1000 rw-s 00038000 00:0b 7796       /dev/kgsl-3d0
+797c1000-797cb000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+797cb000-797cd000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+797cd000-797f5000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+797f5000-79806000 rw-s 00039000 00:0b 7796       /dev/kgsl-3d0
+79816000-7981f000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+79826000-7986f000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7986f000-79874000 rw-s 0004a000 00:0b 7796       /dev/kgsl-3d0
+79876000-7987b000 rw-s 0004c000 00:0b 7796       /dev/kgsl-3d0
+7987b000-79880000 rw-s 0004d000 00:0b 7796       /dev/kgsl-3d0
+79885000-79887000 rw-s 0004f000 00:0b 7796       /dev/kgsl-3d0
+79887000-79890000 rw-s 00050000 00:0b 7796       /dev/kgsl-3d0
+79891000-798ad000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+798b0000-798b1000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+798b1000-798b6000 rw-s 00052000 00:0b 7796       /dev/kgsl-3d0
+798b6000-798da000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+798da000-798df000 rw-s 00053000 00:0b 7796       /dev/kgsl-3d0
+798df000-798e4000 rw-s 00054000 00:0b 7796       /dev/kgsl-3d0
+798e4000-798e9000 rw-s 00055000 00:0b 7796       /dev/kgsl-3d0
+798e9000-798f2000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+798f2000-798f3000 ---p 00000000 00:00 0 
+798f3000-799f0000 rw-p 00000000 00:00 0          [stack:1931]
+799f0000-79a00000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+79a00000-79a11000 rw-s 00006000 00:0b 7796       /dev/kgsl-3d0
+79a11000-79a22000 rw-s 00007000 00:0b 7796       /dev/kgsl-3d0
+79a22000-79a33000 rw-s 00008000 00:0b 7796       /dev/kgsl-3d0
+79a33000-79a35000 rw-s 00009000 00:0b 7796       /dev/kgsl-3d0
+79a35000-79a70000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7a332000-7a349000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7a354000-7a365000 rw-s 00058000 00:0b 7796       /dev/kgsl-3d0
+7a365000-7a376000 rw-s 00059000 00:0b 7796       /dev/kgsl-3d0
+7a376000-7a4ed000 r-xp 00000000 00:04 11337      /dev/ashmem/dalvik-jit-code-cache (deleted)
+7a4ed000-7a4ee000 ---p 00000000 00:00 0 
+7a4ee000-7a5eb000 rw-p 00000000 00:00 0          [stack:2004]
+7a5eb000-7a5ec000 ---p 00000000 00:00 0 
+7a5ec000-7a6e9000 rw-p 00000000 00:00 0          [stack:2005]
+7a7e9000-7a8ba000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7ab36000-7ab47000 rw-s 00069000 00:0b 7796       /dev/kgsl-3d0
+7ab47000-7ab64000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7ab71000-7ab73000 rw-s 00049000 00:0b 7796       /dev/kgsl-3d0
+7ab73000-7ab84000 rw-s 0006c000 00:0b 7796       /dev/kgsl-3d0
+7ab84000-7ab95000 rw-s 0006d000 00:0b 7796       /dev/kgsl-3d0
+7ab95000-7ab9e000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7ab9e000-7abb1000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7abb1000-7abba000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7adba000-7adcb000 rw-s 0009d000 00:0b 7796       /dev/kgsl-3d0
+7adcb000-7add4000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7add5000-7b1ec000 r--s 00000000 b3:1e 114403     /data/data/com.android.chrome/app_chrome/paks/resources.pak
+7b1ec000-7b1ed000 ---p 00000000 00:00 0 
+7b1ed000-7b2ea000 rw-p 00000000 00:00 0          [stack:1932]
+7b2ea000-7b2eb000 ---p 00000000 00:00 0 
+7b2eb000-7b3e8000 rw-p 00000000 00:00 0          [stack:1933]
+7b3e8000-7b3e9000 ---p 00000000 00:00 0 
+7b3e9000-7b4e6000 rw-p 00000000 00:00 0          [stack:1934]
+7b4e6000-7b4e7000 ---p 00000000 00:00 0 
+7b4e7000-7b5e4000 rw-p 00000000 00:00 0          [stack:1935]
+7b5e4000-7b5e5000 ---p 00000000 00:00 0 
+7b5e5000-7b6e2000 rw-p 00000000 00:00 0          [stack:1936]
+7b6e2000-7b6e3000 ---p 00000000 00:00 0 
+7b6e3000-7b7e0000 rw-p 00000000 00:00 0          [stack:1937]
+7b7e0000-7b7e1000 ---p 00000000 00:00 0 
+7b7e1000-7b8de000 rw-p 00000000 00:00 0          [stack:1938]
+7b8de000-7b8df000 ---p 00000000 00:00 0 
+7b8df000-7b9dc000 rw-p 00000000 00:00 0          [stack:1939]
+7b9dc000-7b9dd000 ---p 00000000 00:00 0 
+7b9dd000-7bada000 rw-p 00000000 00:00 0          [stack:1940]
+7bada000-7badb000 ---p 00000000 00:00 0 
+7badb000-7bbd8000 rw-p 00000000 00:00 0          [stack:1941]
+7bbd8000-7bbd9000 ---p 00000000 00:00 0 
+7bbd9000-7bcd6000 rw-p 00000000 00:00 0          [stack:1942]
+7bcd6000-7bcd7000 ---p 00000000 00:00 0 
+7bcd7000-7bdd4000 rw-p 00000000 00:00 0          [stack:1944]
+7be54000-7be95000 rw-s 00071000 00:0b 7796       /dev/kgsl-3d0
+7be95000-7be98000 rw-s 00072000 00:0b 7796       /dev/kgsl-3d0
+7be98000-7be9b000 rw-s 00073000 00:0b 7796       /dev/kgsl-3d0
+7be9b000-7be9d000 rw-s 00088000 00:0b 7796       /dev/kgsl-3d0
+7be9d000-7be9f000 rw-s 00090000 00:0b 7796       /dev/kgsl-3d0
+7be9f000-7bea1000 rw-s 00091000 00:0b 7796       /dev/kgsl-3d0
+7bea1000-7bea3000 rw-s 00094000 00:0b 7796       /dev/kgsl-3d0
+7bea3000-7beb4000 rw-s 00095000 00:0b 7796       /dev/kgsl-3d0
+7beb4000-7beb6000 rw-s 00096000 00:0b 7796       /dev/kgsl-3d0
+7beb6000-7beb8000 rw-s 00097000 00:0b 7796       /dev/kgsl-3d0
+7beb8000-7beba000 rw-s 00098000 00:0b 7796       /dev/kgsl-3d0
+7beba000-7bebc000 rw-s 00099000 00:0b 7796       /dev/kgsl-3d0
+7bebc000-7bebe000 rw-s 0009a000 00:0b 7796       /dev/kgsl-3d0
+7bebe000-7bec0000 rw-s 0009b000 00:0b 7796       /dev/kgsl-3d0
+7bec0000-7bec2000 rw-s 0009c000 00:0b 7796       /dev/kgsl-3d0
+7bec2000-7bed2000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7bed2000-7bed3000 ---p 00000000 00:00 0 
+7bed3000-7bfd0000 rw-p 00000000 00:00 0          [stack:1947]
+7bfd0000-7bfd1000 ---p 00000000 00:00 0 
+7bfd1000-7c0ce000 rw-p 00000000 00:00 0          [stack:1948]
+7c0ce000-7c0cf000 ---p 00000000 00:00 0 
+7c0cf000-7c1cc000 rw-p 00000000 00:00 0          [stack:1949]
+7c1cc000-7c1cd000 ---p 00000000 00:00 0 
+7c1cd000-7c2ca000 rw-p 00000000 00:00 0          [stack:1950]
+7cb8a000-7cbb0000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7cbb2000-7cbb3000 ---p 00000000 00:00 0 
+7cbb3000-7ccb0000 rw-p 00000000 00:00 0          [stack:1951]
+7ccb0000-7ccb1000 ---p 00000000 00:00 0 
+7ccb1000-7cdae000 rw-p 00000000 00:00 0          [stack:1952]
+7cdae000-7cdaf000 ---p 00000000 00:00 0 
+7cdaf000-7ceac000 rw-p 00000000 00:00 0          [stack:1953]
+7ceac000-7cead000 ---p 00000000 00:00 0 
+7cead000-7cfaa000 rw-p 00000000 00:00 0          [stack:2352]
+7cfab000-7cfad000 rw-s 000bf000 00:0b 7796       /dev/kgsl-3d0
+7cfae000-7cfb0000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7cff5000-7cff7000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d041000-7d062000 rw-s 000a0000 00:0b 7796       /dev/kgsl-3d0
+7d062000-7d077000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d07b000-7d1df000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d1df000-7d220000 rw-s 0000a000 00:0b 7796       /dev/kgsl-3d0
+7d220000-7d223000 rw-s 0000b000 00:0b 7796       /dev/kgsl-3d0
+7d223000-7d226000 rw-s 0000c000 00:0b 7796       /dev/kgsl-3d0
+7d226000-7d228000 rw-s 0000d000 00:0b 7796       /dev/kgsl-3d0
+7d228000-7d22a000 rw-s 0000e000 00:0b 7796       /dev/kgsl-3d0
+7d22a000-7d22c000 rw-s 0000f000 00:0b 7796       /dev/kgsl-3d0
+7d22c000-7d22e000 rw-s 00010000 00:0b 7796       /dev/kgsl-3d0
+7d22e000-7d23f000 rw-s 00011000 00:0b 7796       /dev/kgsl-3d0
+7d23f000-7d241000 rw-s 00012000 00:0b 7796       /dev/kgsl-3d0
+7d241000-7d243000 rw-s 00013000 00:0b 7796       /dev/kgsl-3d0
+7d243000-7d245000 rw-s 00014000 00:0b 7796       /dev/kgsl-3d0
+7d245000-7d247000 rw-s 00015000 00:0b 7796       /dev/kgsl-3d0
+7d247000-7d249000 rw-s 00016000 00:0b 7796       /dev/kgsl-3d0
+7d249000-7d24b000 rw-s 00017000 00:0b 7796       /dev/kgsl-3d0
+7d24b000-7d24d000 rw-s 00018000 00:0b 7796       /dev/kgsl-3d0
+7d24d000-7d271000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d271000-7d2b2000 rw-s 00057000 00:0b 7796       /dev/kgsl-3d0
+7d2b2000-7d2f3000 rw-s 0005a000 00:0b 7796       /dev/kgsl-3d0
+7d2f3000-7d334000 rw-s 0005b000 00:0b 7796       /dev/kgsl-3d0
+7d334000-7d375000 rw-s 0005c000 00:0b 7796       /dev/kgsl-3d0
+7d375000-7d3b6000 rw-s 0005d000 00:0b 7796       /dev/kgsl-3d0
+7d3b6000-7d3f7000 rw-s 0005e000 00:0b 7796       /dev/kgsl-3d0
+7d3f7000-7d438000 rw-s 0005f000 00:0b 7796       /dev/kgsl-3d0
+7d438000-7d449000 rw-s 00060000 00:0b 7796       /dev/kgsl-3d0
+7d449000-7d44a000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d44a000-7d44c000 rw-s 00061000 00:0b 7796       /dev/kgsl-3d0
+7d44c000-7d44d000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d44d000-7d44f000 rw-s 00062000 00:0b 7796       /dev/kgsl-3d0
+7d44f000-7d450000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d450000-7d452000 rw-s 00063000 00:0b 7796       /dev/kgsl-3d0
+7d452000-7d453000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d453000-7d455000 rw-s 00064000 00:0b 7796       /dev/kgsl-3d0
+7d455000-7d485000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d4a6000-7d4ba000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d4bc000-7d4c3000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d4c6000-7d4cb000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d54b000-7d562000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d666000-7d6a3000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d6a3000-7d6b4000 rw-s 0006a000 00:0b 7796       /dev/kgsl-3d0
+7d6b4000-7d6c5000 rw-s 0006b000 00:0b 7796       /dev/kgsl-3d0
+7d6ca000-7d6fd000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d6fd000-7d739000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d7b9000-7d7c3000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d828000-7d83c000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d83e000-7d85e000 rw-s 00000000 00:04 11363      /dev/ashmem (deleted)
+7d85e000-7d863000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d863000-7d86b000 r--p 00000000 b3:16 550        /system/fonts/DroidSansHebrew-Regular.ttf
+7d86b000-7d86d000 rw-s 0007e000 00:0b 7796       /dev/kgsl-3d0
+7d86d000-7d86f000 rw-s 0007f000 00:0b 7796       /dev/kgsl-3d0
+7d86f000-7d876000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7d876000-7d87c000 r--p 00000000 b3:16 595        /system/fonts/NotoSansThaiUI-Regular.ttf
+7d87c000-7d87e000 rw-s 00080000 00:0b 7796       /dev/kgsl-3d0
+7d87e000-7d880000 rw-s 00081000 00:0b 7796       /dev/kgsl-3d0
+7d957000-7d95d000 r--p 00000000 b3:16 548        /system/fonts/DroidSansGeorgian.ttf
+7e31d000-7e31f000 rw-s 00082000 00:0b 7796       /dev/kgsl-3d0
+7e31f000-7e320000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7e331000-7e337000 rw-p 00000000 00:00 0 
+7e337000-7e338000 rw-s 00000000 00:04 8645       /dev/ashmem (deleted)
+7e338000-7e33a000 rw-s 00075000 00:0b 7796       /dev/kgsl-3d0
+7e33c000-7e33e000 rw-s 00092000 00:0b 7796       /dev/kgsl-3d0
+7e33e000-7e340000 rw-s 00093000 00:0b 7796       /dev/kgsl-3d0
+7e340000-7e341000 rw-s 00000000 00:04 8645       /dev/ashmem (deleted)
+7e341000-7e351000 rw-s 00000000 00:04 8646       /dev/ashmem (deleted)
+7e356000-7e357000 ---p 00000000 00:00 0 
+7e357000-7e454000 rw-p 00000000 00:00 0          [stack:1985]
+7e768000-7e779000 rw-s 00047000 00:0b 7796       /dev/kgsl-3d0
+7ec54000-7edb8000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7ee51000-7ee62000 rw-s 000b4000 00:0b 7796       /dev/kgsl-3d0
+7ee70000-7f6ae000 rw-s 00067000 00:0b 7796       /dev/kgsl-3d0
+7f6cf000-7f6e0000 rw-s 0009e000 00:0b 7796       /dev/kgsl-3d0
+7f6e0000-7f6f1000 rw-s 000b9000 00:0b 7796       /dev/kgsl-3d0
+7fc54000-7fc70000 r--p 00000000 b3:16 542        /system/fonts/DroidNaskhUI-Regular.ttf
+7fc70000-7fca8000 r--p 00000000 b3:16 546        /system/fonts/DroidSansEthiopic-Regular.ttf
+7fca8000-7fcc7000 r--p 00000000 b3:16 566        /system/fonts/NotoSansDevanagariUI-Regular.ttf
+7fcc7000-7fcd0000 r--p 00000000 b3:16 587        /system/fonts/NotoSansTamilUI-Regular.ttf
+7fcd0000-7fcde000 r--p 00000000 b3:16 582        /system/fonts/NotoSansMalayalamUI-Regular.ttf
+7fcde000-7fcf9000 r--p 00000000 b3:16 562        /system/fonts/NotoSansBengaliUI-Regular.ttf
+7fcf9000-7fd15000 r--p 00000000 b3:16 591        /system/fonts/NotoSansTeluguUI-Regular.ttf
+7fd15000-7fd29000 r--p 00000000 b3:16 570        /system/fonts/NotoSansKannadaUI-Regular.ttf
+7fd29000-7fd34000 r--p 00000000 b3:16 574        /system/fonts/NotoSansKhmerUI-Regular.ttf
+7fd34000-7fd3d000 r--p 00000000 b3:16 578        /system/fonts/NotoSansLaoUI-Regular.ttf
+7fd3d000-7fd5a000 r--p 00000000 b3:16 598        /system/fonts/Roboto-Bold.ttf
+7fd5b000-7fd5c000 ---p 00000000 00:00 0 
+7fd5c000-7fe59000 rw-p 00000000 00:00 0          [stack:1993]
+7fe59000-7fe69000 rw-s 00000000 00:04 8646       /dev/ashmem (deleted)
+7fe69000-7fe79000 rw-s 00000000 00:04 8647       /dev/ashmem (deleted)
+7fe79000-7fe89000 rw-s 00000000 00:04 8647       /dev/ashmem (deleted)
+7fefa000-7ff27000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7ff5a000-7ff5c000 rw-s 00083000 00:0b 7796       /dev/kgsl-3d0
+7ff5c000-7ff5e000 rw-s 00084000 00:0b 7796       /dev/kgsl-3d0
+7ff5e000-7ff70000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7ff72000-7ffa8000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7ffa8000-7ffe3000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+7ffe3000-7ffe5000 rw-s 00086000 00:0b 7796       /dev/kgsl-3d0
+7ffe5000-7ffe7000 rw-s 00087000 00:0b 7796       /dev/kgsl-3d0
+7ffeb000-80006000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+80104000-8010d000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+80b6e000-80b8f000 rw-s 00085000 00:0b 7796       /dev/kgsl-3d0
+80b8f000-80b90000 rw-p 00000000 00:00 0          [anon:libc_malloc]
+80bb9000-80bca000 rw-s 00089000 00:0b 7796       /dev/kgsl-3d0
+80bca000-80bdb000 rw-s 0008a000 00:0b 7796       /dev/kgsl-3d0
+80bdb000-80bec000 rw-s 0008b000 00:0b 7796       /dev/kgsl-3d0
+80bec000-80bfd000 rw-s 0008c000 00:0b 7796       /dev/kgsl-3d0
+80bfd000-80c0e000 rw-s 0008d000 00:0b 7796       /dev/kgsl-3d0
+80c0e000-80c1f000 rw-s 0008e000 00:0b 7796       /dev/kgsl-3d0
+80c1f000-80c30000 rw-s 0008f000 00:0b 7796       /dev/kgsl-3d0
+8146e000-81470000 rw-s 000ba000 00:0b 7796       /dev/kgsl-3d0
+be9b5000-be9d6000 rw-p 00000000 00:00 0          [stack]
+ffff0000-ffff1000 r-xp 00000000 00:00 0          [vectors]

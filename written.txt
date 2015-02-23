@@ -1,0 +1,20 @@
+The common parts of Zygote and Chrome were analyzed as follows:
+
+$ ./vm_inspector 180 >zygote.vm
+$ cat /proc/180/maps >zygote.map
+$ $ ./vm_inspector 2280 >chrome.vm
+$ cat /proc/2280/maps >chrome.map
+$ git diff --no-index zygote.vm chrome.vm | grep '^ ' >commonlines.vm
+$ python comparitory.py >result.txt
+
+Essentially, extract common lines of Zygote and Chrome analyzed by our
+vm_inspector, and look for those virtual addresses in the proc-map of
+either of them.
+
+The files and comparitor.py can be found in the comparitor/ directory
+of the repository.
+
+According to result.txt, the common objects between zygote and chrome
+linker, libraries, framework. Zygote's task is to set up a new
+instance of the Dalvik VM for each new application launched; hence, it
+shares these common setup items.
